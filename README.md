@@ -47,8 +47,3 @@ pip install streamlit pandas matplotlib seaborn plotly
 - **Dampak Cuaca**: Analisis dampak kondisi cuaca terhadap penggunaan layanan.
 - **Tren Penggunaan**: Heatmap yang menunjukkan tren penggunaan layanan berdasarkan bulan dan jam.
 
-## Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan buka issue atau buat pull request di repository ini.
-
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
